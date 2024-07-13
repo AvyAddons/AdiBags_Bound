@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [1.8.3] 2024-07-13
 ### Changed
-- Bump Retail TOC to 1.15.3
+- Bump Classic TOC to 1.15.3
 
 ## [1.8.2] 2024-04-13
 ### Changed
